@@ -1,6 +1,6 @@
 # Article AI Backend
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nutlope/alt-text-generator&env=REPLICATE_API_KEY&project-name=alt-tag-generator&repo-name=alt-tag-generator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dewinterjack/article-api&env=REPLICATE_API_KEY&project-name=article-api&repo-name=article-api)
 
 This Flask API will create a summary for an article and will eventually support
 more AI interactions.
